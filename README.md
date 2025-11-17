@@ -1,7 +1,7 @@
 # Introduce yourself
 
 1. fork this repo
-2. clone forked repo locally
+2. clone forked repo locally        
 3. create a branch /your-name
 4. Add your introduction
 5. commit the merge
@@ -88,3 +88,4 @@
 - Shivam Yadav, `Python`, Programmer Analyst
 - Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
 - Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
+  -Saumya Awasthi, 'Html','Css','Java Script,'Front End Developer'            
